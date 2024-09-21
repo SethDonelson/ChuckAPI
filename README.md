@@ -2,7 +2,7 @@
 An API call that generates a random Chuck Norris joke to lighten your day. <br>
 
 
-<img width="600" alt="Desert Sunset" src="https://i.ibb.co/WsByS2s/Screenshot-2024-09-18-115045.png">
+<img width="600" alt="Desert Sunset" src="https://i.ibb.co/D4dB9Cf/desert-Background.jpg"> 
 
 ## How It's Made:
 
